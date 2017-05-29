@@ -1,0 +1,11 @@
+{
+  "applinks": {
+       "apps": [],
+        "details": [
+           {
+               "appID":"3QU7Q33G9F.com.aiming.schemedev",
+               "paths":[ "*" ]
+           }
+         ]
+    }
+}
